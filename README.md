@@ -52,7 +52,7 @@ Tintor is an platform to connect mentors and mentees in the corporate world. It 
 1.  Clone the repo
 
     ```sh
-    git clone http://gitlab.cyberlogitec.com.vn/hacking-round/team-3.git
+    git clone https://github.com/doandat8888/tintor.git
     ```
 
 2.  Run backend server <br> 2.1 Open a terminal in the current project directory and move to backend folder
