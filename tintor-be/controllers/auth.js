@@ -1,4 +1,4 @@
-const User = require("../models/user");
+const User = require("../models/User");
 const { userValidate } = require("../helpers/validation");
 const { signAccessToken, signRefreshToken } = require("../helpers/jwt_service");
 

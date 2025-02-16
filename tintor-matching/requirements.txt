@@ -5,3 +5,4 @@ imbalanced-learn
 pandas
 numpy
 joblib
+flask_cors

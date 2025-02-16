@@ -119,20 +119,23 @@ Tintor is an platform to connect mentors and mentees in the corporate world. It 
     ```sh
     yarn dev
     ```
+4. Build docker image
 
-4.  Run flask server (Make sure that you've installed <b>pip</b>) <br> 4.1 Open a new terminal in the current project directory and move to matching folder
+    ```sh
+        docker-compose build
+5.  Run flask server (Make sure that you've installed <b>pip</b>) <br> 5.1 Open a new terminal in the current project directory and move to matching folder
 
     ```sh
     cd tintor-matching
     ```
 
-    4.2 Install PIP packages
+    5.2 Install PIP packages
 
     ```sh
     pip install -r requirements.txt
     ```
 
-    3.4 Run flask server
+    5.3 Run flask server
 
     ```sh
     python test.py
